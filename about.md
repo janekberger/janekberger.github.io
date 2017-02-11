@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I'm currently working at [Audible](https://audible.com) as a Research Assistant in
+Data Science, building models for customer behaviour. I'm also working on a thesis in probabilistic machine learning.
 
 ### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[janek.berger@fu-berlin.de](mailto:janek.berger@fu-berlin.de)
